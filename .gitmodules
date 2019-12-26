@@ -4,3 +4,6 @@
 [submodule "kafka_plugin"]
 	path = kafka_plugin
 	url = https://github.com/TP-Lab/kafka_plugin.git
+[submodule "eosio-watcher-plugin"]
+	path = eosio-watcher-plugin
+	url = https://github.com/eosauthority/eosio-watcher-plugin.git
