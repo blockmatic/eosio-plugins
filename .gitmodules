@@ -22,3 +22,6 @@
 [submodule "eos-chronicle"]
 	path = eos-chronicle
 	url = https://github.com/EOSChronicleProject/eos-chronicle.git
+[submodule "Hyperion-History-API"]
+	path = Hyperion-History-API
+	url = https://github.com/eosrio/Hyperion-History-API.git
