@@ -19,3 +19,6 @@
 [submodule "EOS-state-history-API"]
 	path = EOS-state-history-API
 	url = https://github.com/acoutts/EOS-state-history-API.git
+[submodule "eos-chronicle"]
+	path = eos-chronicle
+	url = https://github.com/EOSChronicleProject/eos-chronicle.git
