@@ -25,3 +25,6 @@
 [submodule "Hyperion-History-API"]
 	path = Hyperion-History-API
 	url = https://github.com/eosrio/Hyperion-History-API.git
+[submodule "eos-producer-heartbeat-plugin"]
+	path = eos-producer-heartbeat-plugin
+	url = https://github.com/LiquidEOS/eos-producer-heartbeat-plugin.git
