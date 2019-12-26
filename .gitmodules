@@ -16,3 +16,6 @@
 [submodule "chintai-zeromq-watcher-plugin"]
 	path = chintai-zeromq-watcher-plugin
 	url = https://github.com/acoutts/chintai-zeromq-watcher-plugin.git
+[submodule "EOS-state-history-API"]
+	path = EOS-state-history-API
+	url = https://github.com/acoutts/EOS-state-history-API.git
