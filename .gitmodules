@@ -1,0 +1,3 @@
+[submodule "elasticsearch_plugin"]
+	path = elasticsearch_plugin
+	url = https://github.com/EOSLaoMao/elasticsearch_plugin.git
